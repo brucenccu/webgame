@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset = "UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Game</title>
+    <link rel = "stylesheet" href = "./style.css">
+    <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+    <script type="text/javascript" src = "./game.js"></script>
+    
+</head>
+<body>
+    <div id = "container">
+        <div>
+            <img id ="title" src = "./picture/廚餘去哪了.png" style = "width:900px;height:400px; margin-left:350px;">
+        </div>
+        <div>
+        <img id ="animate" onload =myMove() src = "./picture/廚餘車.png" style = "width:100px;height:50px;margin-left:1000px;">
+        </div>
+        <div>
+        <img id ="start" onclick= game(0) onmouseenter="inputing()" onmouseleave="leaving()" src = "./picture/開始遊戲1.png" style = "cursor:pointer;width:500px;height:300px;margin-left:500px;">
+        </div>
+    </div>
+<script type="text/javascript" src = "./game.js"></script>
+</body>
+<script>
+function myMove() {
+  var elem = document.getElementById("animate");   
+  var pos = 0;
+  var id = setInterval(frame, 5);
+  function frame() {
+    if (pos == 500) {
+        pos = -100;
+      //clearInterval(id);
+    } else {
+      pos++; 
+      elem.style.right = pos + "px"; 
+    }
+  }
+
+}
+function inputing(){
+    var img=document.getElementById("start");
+    img.src="./picture/開始遊戲2.png";
+   
+}
+function leaving(){
+    var img=document.getElementById("start");
+    img.src="./picture/開始遊戲1.png";
+}
+</script>
+</html>
