@@ -12,13 +12,13 @@
 <body>
     <div id = "container">
         <div>
-            <img id ="title" src = "./picture/廚餘去哪了.png" style = "width:900px;height:400px; margin-left:350px;">
+            <img id ="title" src = "./picture/廚餘去哪了.png">
         </div>
         <div>
-        <img id ="animate" onload =myMove() src = "./picture/廚餘車.png" style = "width:100px;height:50px;margin-left:1000px;">
+        <img id ="animate" onload =myMove() src = "./picture/廚餘車.png">
         </div>
         <div>
-        <img id ="start" onclick= game(0) onmouseenter="inputing()" onmouseleave="leaving()" src = "./picture/開始遊戲1.png" style = "cursor:pointer;width:500px;height:300px;margin-left:500px;">
+        <img id ="start" onclick= game(0) onmouseenter="inputing()" onmouseleave="leaving()" src = "./picture/開始遊戲1.png" >
         </div>
     </div>
 <script type="text/javascript" src = "./game.js"></script>
@@ -29,7 +29,7 @@ function myMove() {
   var pos = 0;
   var id = setInterval(frame, 5);
   function frame() {
-    if (pos == 500) {
+    if (pos == 900) {
         pos = -100;
       //clearInterval(id);
     } else {

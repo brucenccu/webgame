@@ -5,19 +5,22 @@ var timer;
 //d.innerHTML+=
 function game(flag){
     //document.write('<img id ="first" src="./picture/抽籤.gif">');
-    if(flag==1)
+    if(flag==1){
          again.style.visibility =(again.style.visibility == "hidden") ? "visible" : "hidden";
+         fail_result.style.visibility =(fail_result.style.visibility == "hidden") ? "visible" : "hidden";
+    }
     else{
         d.innerHTML = "";
     }
-    d.innerHTML+='<video id = "first" width="360" height="270" autoplay="autoplay"  muted="true"><source type="video/mp4" src="./picture/抽籤.mp4"></source></video>';
+    d.innerHTML+='<video id = "first" width="900" height="600" autoplay="autoplay"  muted="true"><source type="video/mp4" src="./picture/抽籤.mp4"></source></video>';
     var imgnumber = Math.floor(Math.random()*17);
-    var option_imgurl = ['./picture/餵豬.jpg',
-                     './picture/焚化.jpg',
-                     './picture/掩埋.jpg',
-                     './picture/堆肥.jpg',
-                     './picture/化製.jpg',
-                     './picture/生質能.jpg',
+    var option_imgurl = ['./picture/餵豬.png',
+                     './picture/焚化.png',
+                     './picture/掩埋.png',
+                     './picture/堆肥.png',
+                     './picture/化製.png',
+                     './picture/生質能1.jpg',
+                     './picture/生質能2.jpg'
                     ];
     if (flag==0){
         a=1;
@@ -26,12 +29,13 @@ function game(flag){
         hidepic(a,number);
         setTimeout(function(){
     //second.style.visibility =(second.style.visibility == "hidden") ? "visible" : "hidden";
-            d.innerHTML+='<img id ="third" style = "position:absolute;top:100px;left:400px;z-index:3;margin-left:250px;" src="'+option_imgurl[0]+'">';
-            d.innerHTML+='<img id ="forth" style = "position:absolute;top:200px;left:400px;z-index:4;margin-left:250px;" src="'+option_imgurl[1]+'">';
-            d.innerHTML+='<img id ="fifth" style = "position:absolute;top:300px;left:400px;z-index:5;margin-left:250px;" src="'+option_imgurl[2]+'">';
-            d.innerHTML+='<img id ="sixth" style = "position:absolute;top:400px;left:400px;z-index:6;margin-left:250px;" src="'+option_imgurl[3]+'">';
-            d.innerHTML+='<img id ="seventh" style = "position:absolute;top:500px;left:400px;z-index:7;margin-left:250px;" src="'+option_imgurl[4]+'">';
-            d.innerHTML+='<img id ="eighth" onclick="nextpage_feedpigs('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:8;"></img>';
+            d.innerHTML+='<img id ="third" style = "position:absolute;top:100px;left:350px;z-index:3;margin-left:250px;" src="'+option_imgurl[0]+'">';
+            d.innerHTML+='<img id ="forth" style = "position:absolute;top:75px;left:500px;z-index:4;margin-left:250px;" src="'+option_imgurl[1]+'">';
+            d.innerHTML+='<img id ="fifth" style = "position:absolute;top:200px;left:375px;z-index:5;margin-left:250px;" src="'+option_imgurl[2]+'">';
+            d.innerHTML+='<img id ="sixth" style = "position:absolute;top:200px;left:510px;z-index:6;margin-left:250px;" src="'+option_imgurl[3]+'">';
+            d.innerHTML+='<img id ="seventh" style = "position:absolute;top:325px;left:350px;z-index:7;margin-left:250px;" src="'+option_imgurl[4]+'">';
+            d.innerHTML+='<img id ="fail" style = "position:absolute;top:325px;left:500px;z-index:7;margin-left:250px;" src="'+option_imgurl[5]+'">';
+            d.innerHTML+='<img id ="eighth" onclick="nextpage_feedpigs('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:8;"></img>';
         },8000);
     }
     else{
@@ -41,12 +45,13 @@ function game(flag){
         hidepic(a,number);
         setTimeout(function(){
     //second.style.visibility =(second.style.visibility == "hidden") ? "visible" : "hidden";
-            d.innerHTML+='<img id ="forty" style = "position:absolute;top:100px;left:400px;z-index:40;margin-left:250px;" src="'+option_imgurl[0]+'">';
-            d.innerHTML+='<img id ="forty_one" style = "position:absolute;top:200px;left:400px;z-index:41;margin-left:250px;" src="'+option_imgurl[1]+'">';
-            d.innerHTML+='<img id ="forty_two" style = "position:absolute;top:300px;left:400px;z-index:42;margin-left:250px;" src="'+option_imgurl[2]+'">';
-            d.innerHTML+='<img id ="forty_three" style = "position:absolute;top:400px;left:400px;z-index:43;margin-left:250px;" src="'+option_imgurl[3]+'">';
-            d.innerHTML+='<img id ="forty_four" style = "position:absolute;top:500px;left:400px;z-index:44;margin-left:250px;" src="'+option_imgurl[4]+'">';
-            d.innerHTML+='<img id ="twenty_one" onclick="nextpage_feedpigs('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:21;"></img>';
+            d.innerHTML+='<img id ="forty" style = "position:absolute;top:100px;left:350px;z-index:40;margin-left:250px;" src="'+option_imgurl[0]+'">';
+            d.innerHTML+='<img id ="forty_one" style = "position:absolute;top:75px;left:500px;z-index:41;margin-left:250px;" src="'+option_imgurl[1]+'">';
+            d.innerHTML+='<img id ="forty_two" style = "position:absolute;top:200px;left:375px;z-index:42;margin-left:250px;" src="'+option_imgurl[2]+'">';
+            d.innerHTML+='<img id ="forty_three" style = "position:absolute;top:200px;left:510px;z-index:43;margin-left:250px;" src="'+option_imgurl[3]+'">';
+            d.innerHTML+='<img id ="forty_four" style = "position:absolute;top:325px;left:350px;z-index:44;margin-left:250px;" src="'+option_imgurl[4]+'">';
+            d.innerHTML+='<img id ="succeed" style = "position:absolute;top:325px;left:500px;z-index:7;margin-left:250px;" src="'+option_imgurl[6]+'">';
+            d.innerHTML+='<img id ="twenty_one" onclick="nextpage_feedpigs('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:21;"></img>';
         },8000)
     }
 }
@@ -80,9 +85,9 @@ function hidepic(a,number)
         //textfield.value = "圖片被隱藏";
             let throwawayNode = d.removeChild(document.getElementById("first"));
             if(a == 1)
-                d.innerHTML+='<img id ="second" style = "position:absolute;top:20px;left:20px;z-index:2" src="'+first_imgurl[number]+'">';
+                d.innerHTML+='<img id ="second" style = "position:absolute;top:50px;left:100px;z-index:2" src="'+first_imgurl[number]+'">';
             else
-                d.innerHTML+='<img id ="two_round" style = "position:absolute;top:20px;left:20px;z-index:21" src="'+second_imgurl[0]+'">';
+                d.innerHTML+='<img id ="two_round" style = "position:absolute;top:50px;left:100px;z-index:21" src="'+second_imgurl[0]+'">';
     }
     else{
         setTimeout("hidepic("+a+","+number+")",1000);
@@ -98,6 +103,7 @@ function nextpage_feedpigs(number){
         seventh.style.visibility =(seventh.style.visibility == "hidden") ? "visible" : "hidden";
         eighth.style.visibility =(eighth.style.visibility == "hidden") ? "visible" : "hidden";
         second.style.visibility =(second.style.visibility == "hidden") ? "visible" : "hidden";
+        fail.style.visibility =(fail.style.visibility == "hidden") ? "visible" : "hidden";
     }
     else{
         forty.style.visibility =(forty.style.visibility == "hidden") ? "visible" : "hidden";
@@ -107,6 +113,7 @@ function nextpage_feedpigs(number){
         forty_four.style.visibility =(forty_four.style.visibility == "hidden") ? "visible" : "hidden";
         two_round.style.visibility =(two_round.style.visibility == "hidden") ? "visible" : "hidden";
         twenty_one.style.visibility =(twenty_one.style.visibility == "hidden") ? "visible" : "hidden";
+        succeed.style.visibility =(succeed.style.visibility == "hidden") ? "visible" : "hidden";
     }
     switch(number){
         case 0:
@@ -170,9 +177,9 @@ function nextpage_feedpigs(number){
             d.innerHTML+='<div id = "twenty_two" style = "width:1000px;height:1000px;position:absolute;z-index:22;">餵豬19</div>';
     }
     if(number!=-1)
-        d.innerHTML+='<img id ="eleventh" onclick="nextpage_incineration('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:11;"></img>';
+        d.innerHTML+='<img id ="eleventh" onclick="nextpage_incineration('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:11;"></img>';
     else    
-        d.innerHTML+='<img id ="twenty_three" onclick="nextpage_incineration('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:23;"></img>';
+        d.innerHTML+='<img id ="twenty_three" onclick="nextpage_incineration('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:23;"></img>';
 }
 function nextpage_incineration(number){
     
@@ -248,9 +255,9 @@ function nextpage_incineration(number){
             break;
     }
     if(number!=-1)
-        d.innerHTML+='<img id ="twelfth" onclick="nextpage_Buried('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:12;"></img>';
+        d.innerHTML+='<img id ="twelfth" onclick="nextpage_Buried('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:12;"></img>';
     else
-        d.innerHTML+='<img id ="twenty_five" onclick="nextpage_Buried('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:25;"></img>';
+        d.innerHTML+='<img id ="twenty_five" onclick="nextpage_Buried('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:25;"></img>';
 }
 function nextpage_Buried(number){
     
@@ -326,9 +333,9 @@ function nextpage_Buried(number){
             break;
     }
     if(number!=-1)
-        d.innerHTML+='<img id ="fourteenth" onclick="nextpage_compost('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:14;"></img>';
+        d.innerHTML+='<img id ="fourteenth" onclick="nextpage_compost('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:14;"></img>';
     else
-        d.innerHTML+='<img id ="twenty_seven" onclick="nextpage_compost('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:27;"></img>';
+        d.innerHTML+='<img id ="twenty_seven" onclick="nextpage_compost('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:27;"></img>';
 }
 function nextpage_compost(number){
     
@@ -404,9 +411,9 @@ function nextpage_compost(number){
             break;
     }
     if(number!=-1)
-        d.innerHTML+='<img id ="sixteenth" onclick="nextpage_chemistry('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:16;"></img>';
+        d.innerHTML+='<img id ="sixteenth" onclick="nextpage_chemistry('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:16;"></img>';
     else
-        d.innerHTML+='<img id ="twenty_nine" onclick="nextpage_chemistry('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:29;"></img>';
+        d.innerHTML+='<img id ="twenty_nine" onclick="nextpage_chemistry('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:29;"></img>';
 }
 function nextpage_chemistry(number){
     
@@ -482,9 +489,9 @@ function nextpage_chemistry(number){
             break;
     }
     if(number!=-1)
-        d.innerHTML+='<img id ="eighteenth" onclick="nextpage_biomass('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:18;"></img>';
+        d.innerHTML+='<img id ="eighteenth" onclick="nextpage_biomass('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:18;"></img>';
     else
-        d.innerHTML+='<img id ="thirty_one" onclick="nextpage_biomass('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:31;"></img>';
+        d.innerHTML+='<img id ="thirty_one" onclick="nextpage_biomass('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:31;"></img>';
 }
 function nextpage_biomass(number){
     
@@ -560,9 +567,9 @@ function nextpage_biomass(number){
             break;
     }
     if(number!=-1)
-        d.innerHTML+='<img id ="drawagain" onclick="draw_again('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:21;"></img>';
+        d.innerHTML+='<img id ="drawagain" onclick="draw_again('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:21;"></img>';
     else
-        d.innerHTML+='<img id ="final" onclick="Final('+number+')" src="./picture/下一頁1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:33;"></img>';        
+        d.innerHTML+='<img id ="final" onclick="Final('+number+')" src="./picture/下一頁1.png" style="cursor:pointer;position:absolute;top:450px;left:725px;z-index:33;"></img>';        
 }
 function clean(){
     console.log("end");
@@ -571,15 +578,16 @@ function clean(){
 function draw_again(a){
     ninteenth.style.visibility =(ninteenth.style.visibility == "hidden") ? "visible" : "hidden";
     drawagain.style.visibility =(drawagain.style.visibility == "hidden") ? "visible" : "hidden";
-    d.innerHTML+='<img id ="again" onclick="game('+1+')" src="./picture/再玩一次1.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:50;"></img>';
+    d.innerHTML+='<img id = "fail_result" style = "top:100px;left:300px;position:absolute;z-index:50;" src = "./picture/生質能(電電).jpg">';
+    d.innerHTML+='<img id ="again" onclick="game('+1+')" src="./picture/再玩一次1.png" style="cursor:pointer;position:absolute;top:450px;left:750px;z-index:50;"></img>';
     //document.write('<img id ="again" onclick="('+number+')" src="./picture/下一頁.png" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:33;"></img>');  
 }
 function Final(a){
     final.style.visibility =(final.style.visibility == "hidden") ? "visible" : "hidden";
     //thirty_one.style.visibility =(thirty_one.style.visibility == "hidden") ? "visible" : "hidden";
     thirty_two.style.visibility =(thirty_two.style.visibility == "hidden") ? "visible" : "hidden";
-    d.innerHTML+='<img id = "fifty_one" style = "width:1000px;height:1000px;position:absolute;z-index:51;" src = "./picture/發電成功.jpg">';
-    d.innerHTML+='<img id =" fifty_two" onclick="clean()" src="./picture/再玩一次2.jpg" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:52;"></img>';
+    d.innerHTML+='<img id = "fifty_one" style = "top:100px;left:300px;position:absolute;z-index:51;" src = "./picture/生質能(健美電電).jpg">';
+    d.innerHTML+='<img id =" fifty_two" onclick="clean()" src="./picture/再玩一次2.png" style="cursor:pointer;position:absolute;top:450px;left:750px;z-index:52;"></img>';
 
    
 }
