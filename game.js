@@ -315,64 +315,64 @@ function nextpage_Buried(number){
 function nextpage_compost(number){
     switch(number){
         case 0:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥0</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥0</div>';
             break;
         case 1:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥1</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥1</div>';
             break;
         case 2:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥2</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥2</div>';
             break;
         case 3:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥3</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥3</div>';
             break;
         case 4:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥4</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥4</div>';
             break;
         case 5:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥5</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥5</div>';
             break;
         case 6:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥6</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥6</div>';
             break;
         case 7:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥7</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥7</div>';
             break;
         case 8:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥8</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥8</div>';
             break;
         case 9:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥9</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥9</div>';
             break;
         case 10:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥10</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥10</div>';
             break;
         case 11:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥11</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥11</div>';
             break;
         case 12:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥12</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥12</div>';
             break;
         case 13:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥13</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥13</div>';
             break;
         case 14:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥14</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥14</div>';
             break;
         case 15:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;">堆肥15</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;">堆肥15</div>';
             break;
         case 16:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;;">堆肥16</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;;">堆肥16</div>';
             break;
         case 17:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;;">堆肥17</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;;">堆肥17</div>';
             break;
         case 18:
-            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:100%;;">堆肥18</div>';
+            d.innerHTML+='<div id = "fifteenth" style = "width:100%;height:10%;;">堆肥18</div>';
             break;
         default:
-            d.innerHTML+='<div id = "twenty_eight" style = "width:100%;height:100%;;">堆肥19</div>';
+            d.innerHTML+='<div id = "twenty_eight" style = "width:100%;height:10%;;">堆肥19</div>';
             break;
     }
      if(number!=-1){
@@ -393,64 +393,64 @@ function nextpage_compost(number){
 function nextpage_chemistry(number){
     switch(number){
         case 0:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製0</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製0</div>';
             break;
         case 1:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製1</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製1</div>';
             break;
         case 2:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製2</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製2</div>';
             break;
         case 3:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製3</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製3</div>';
             break;
         case 4:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製4</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製4</div>';
             break;
         case 5:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製5</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製5</div>';
             break;
         case 6:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製6</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製6</div>';
             break;
         case 7:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製7</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製7</div>';
             break;
         case 8:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製8</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製8</div>';
             break;
         case 9:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製9</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製9</div>';
             break;
         case 10:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製10</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製10</div>';
             break;
         case 11:
             d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製11</div>';
             break;
         case 12:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製12</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製12</div>';
             break;
         case 13:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製13</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製13</div>';
             break;
         case 14:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製14</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製14</div>';
             break;
         case 15:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製15</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製15</div>';
             break;
         case 16:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製16</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製16</div>';
             break;
         case 17:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製17</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製17</div>';
             break;
         case 18:
-            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:100%">化製18</div>';
+            d.innerHTML+='<div id = "seventeenth" style = "width:100%;height:10%">化製18</div>';
             break;
         default:
-            d.innerHTML+='<div id = "thirty" style = "width:100%;height:100%">化製19</div>';
+            d.innerHTML+='<div id = "thirty" style = "width:100%;height:10%">化製19</div>';
             break;
     }
     if(number!=-1){
@@ -474,64 +474,64 @@ function nextpage_biomass(number){
     
     switch(number){
         case 0:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能0</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能0</div>';
             break;
         case 1:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能1</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能1</div>';
             break;
         case 2:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能2</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能2</div>';
             break;
         case 3:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能3</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能3</div>';
             break;
         case 4:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能4</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能4</div>';
             break;
         case 5:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能5</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能5</div>';
             break;
         case 6:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能6</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能6</div>';
             break;
         case 7:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能7</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能7</div>';
             break;
         case 8:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能8</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能8</div>';
             break;
         case 9:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能9</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能9</div>';
             break;
         case 10:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能10</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能10</div>';
             break;
         case 11:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能11</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能11</div>';
             break;
         case 12:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能12</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能12</div>';
             break;
         case 13:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能13</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能13</div>';
             break;
         case 14:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能14</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能14</div>';
             break;
         case 15:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能15</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能15</div>';
             break;
         case 16:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能16</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能16</div>';
             break;
         case 17:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能17</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能17</div>';
             break;
         case 18:
-            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:100%">生質能18</div>';
+            d.innerHTML+='<div id = "ninteenth" style = "width:100%;height:10%">生質能18</div>';
             break;
         default:
-            d.innerHTML+='<div id = "thirty_two" style = "width:100%;height:100%">生質能19</div>';
+            d.innerHTML+='<div id = "thirty_two" style = "width:100%;height:10%">生質能19</div>';
             break;
     }
     if(number!=-1){
@@ -558,7 +558,7 @@ function draw_again(a){
     document.getElementById("fail").style.display = "none"
     document.getElementById("ninteenth").style.display = "none"
     document.getElementById("drawagain").style.display = "none"
-    d.innerHTML+='<img id = "fail_result" style = "width:30%;height:30%;margin-left:35%" src = "./picture/生質能(電電).jpg">';
+    d.innerHTML+='<img id = "fail_result" style = "width:40%;height:40%;margin-left:30%" src = "./picture/生質能(電電).jpg">';
     d.innerHTML+='<img id ="again" onclick="game('+1+')" src="./picture/再玩一次1.png" style="cursor:pointer;height:15vw;width:15vw;margin-left:8%"></img>';
     //document.write('<img id ="again" onclick="('+number+')" src="./picture/下一頁.png" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:33;"></img>');  
 }
@@ -566,7 +566,7 @@ function Final(a){
     document.getElementById("thirty_two").style.display = "none"
     document.getElementById("succeed").style.display = "none"
     document.getElementById("final").style.display = "none"
-    d.innerHTML+='<img id = "fifty_one" style = "width:30%;height:30%;margin-left:35%" src = "./picture/生質能(健美電電).jpg">';
+    d.innerHTML+='<img id = "fifty_one" style = "width:40%;height:40%;margin-left:30%" src = "./picture/生質能(健美電電).jpg">';
     d.innerHTML+='<img id ="fifty_two" onclick="clean()" src="./picture/再玩一次1.png" style="cursor:pointer;height:15vw;width:15vw;margin-left:8%"></img>';
 }
 //game(0);
