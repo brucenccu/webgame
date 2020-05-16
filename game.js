@@ -20,7 +20,7 @@ function game(flag){
         console.log("TEST");
         d.innerHTML = "";
     }
-    d.innerHTML+='<video id = "first" autoplay="autoplay"  muted="true" ><source type="video/mp4" src="./picture/抽籤.mp4"></source></video>';
+    d.innerHTML+='<video id = "first" autoplay=""  muted="true" ><source type="video/mp4" src="./picture/抽籤.mp4"></source></video>';
     var imgnumber = Math.floor(Math.random()*17);
     document.getElementById("container").style.textAlign = "left";
     if (flag==0){
