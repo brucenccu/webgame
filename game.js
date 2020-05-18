@@ -7,7 +7,7 @@ var option_imgurl = ['./picture/餵豬.png',
                      './picture/掩埋.png',
                      './picture/堆肥.png',
                      './picture/化製.png',
-                     './picture/生質能1.jpg',
+                     './picture/生質能(電電).png',
                      './picture/生質能2.jpg'
                     ];
 
