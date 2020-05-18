@@ -100,83 +100,83 @@ function nextpage_feedpigs(number){
     switch(number){
         case 0:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 1:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 2:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 3:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 4:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 5:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 6:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 7:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 8:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">糟糕！根據你所在的縣（市）規定，你是不可以被拿去養豬的！不過你可以搭上廚餘車，運到鄰近縣市，再根據行政院環保署的規定，接受攝氏90度蒸煮一小時後，餵給豬隻做為食物！不然按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">糟糕！根據你所在的縣（市）規定，你是不可以被拿去養豬的！不過你可以搭上廚餘<br>車，運到鄰近縣市，再根據行政院環保署的規定，接受攝氏90度蒸煮一小時後，餵給<br>豬隻做為食物！不然按下next，試試其他5種方法吧！</div>';
             break;
         case 9:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 10:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 11:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">糟糕！根據你所在的縣（市）規定，你是不可以被拿去養豬的！不過你可以搭上廚餘車，運到鄰近縣市，再根據行政院環保署的規定，接受攝氏90度蒸煮一小時後，餵給豬隻做為食物！不然按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">糟糕！根據你所在的縣（市）規定，你是不可以被拿去養豬的！不過你可以搭上廚餘<br>車，運到鄰近縣市，再根據行政院環保署的規定，接受攝氏90度蒸煮一小時後，餵給<br>豬隻做為食物！不然按下next，試試其他5種方法吧！</div>';
             break;
         case 12:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">糟糕！根據你所在的縣（市）規定，你是不可以被拿去養豬的！不過你可以搭上廚餘車，運到鄰近縣市，再根據行政院環保署的規定，接受攝氏90度蒸煮一小時後，餵給豬隻做為食物！不然按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">糟糕！根據你所在的縣（市）規定，你是不可以被拿去養豬的！不過你可以搭上廚餘<br>車，運到鄰近縣市，再根據行政院環保署的規定，接受攝氏90度蒸煮一小時後，餵給<br>豬隻做為食物！不然按下next，試試其他5種方法吧！</div>';
             break;
         case 13:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 14:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 15:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">糟糕！根據你所在的縣（市）規定，你是不可以被拿去養豬的！不過你可以搭上廚餘車，運到鄰近縣市，再根據行政院環保署的規定，接受攝氏90度蒸煮一小時後，餵給豬隻做為食物！不然按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">糟糕！根據你所在的縣（市）規定，你是不可以被拿去養豬的！不過你可以搭上廚餘<br>車，運到鄰近縣市，再根據行政院環保署的規定，接受攝氏90度蒸煮一小時後，餵給<br>豬隻做為食物！不然按下next，試試其他5種方法吧！</div>';
             break;
         case 16:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%;">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">糟糕！根據你所在的縣（市）規定，你是不可以被拿去養豬的！不過你可以搭上廚餘車，運到鄰近縣市，再根據行政院環保署的規定，接受攝氏90度蒸煮一小時後，餵給豬隻做為食物！不然按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">糟糕！根據你所在的縣（市）規定，你是不可以被拿去養豬的！不過你可以搭上廚餘<br>車，運到鄰近縣市，再根據行政院環保署的規定，接受攝氏90度蒸煮一小時後，餵給<br>豬隻做為食物！不然按下next，試試其他5種方法吧！</div>';
             break;
         case 17:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         case 18:
             d.innerHTML+='<div style = "text-align:center" id = "ninth" style = "width:100%;height:100%">餵豬</div><div id = "barninth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "b" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
         default:
             d.innerHTML+='<div style = "text-align:center" id = "twenty_two" style = "width:100%;height:100%;">餵豬</div><div id = "bartwenty_two"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "a" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能就會生病...不如按下next，試試其他5種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "a" style = "width:100%;height:100%;">你變成了養豬廚餘！依照行政院環保署的規範，你必須被攝氏90度的高溫烹煮一小時<br>後，才能變成豬豬們的大餐。不過，如果你的身上有細菌或病毒，豬豬吃下肚後，可能<br>就會生病...不如按下next，試試其他5種方法吧！</div>';
             break;
     }
    
@@ -208,83 +208,83 @@ function nextpage_incineration(number){
     switch(number){
         case 0:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 1:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 2:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 3:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 4:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 5:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">可惜！你所在的縣市政府不太打算焚化廚餘，且若是進行焚化，會壓縮原先垃圾焚燒空間，且會產生戴奧辛，降低焚化爐壽命，是下下策的做法唷！請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">可惜！你所在的縣市政府不太打算焚化廚餘，且若是進行焚化，會壓縮原先垃圾焚燒<br>空間，且會產生戴奧辛，降低焚化爐壽命，是下下策的做法唷！請按下next，到下面4<br>種方式看看吧！</div>';
             break;
         case 6:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 7:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 8:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">可惜！你所在的縣市政府不太打算焚化廚餘，且若是進行焚化，會壓縮原先垃圾焚燒空間，且會產生戴奧辛，降低焚化爐壽命，是下下策的做法唷！請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">可惜！你所在的縣市政府不太打算焚化廚餘，且若是進行焚化，會壓縮原先垃圾焚燒<br>空間，且會產生戴奧辛，降低焚化爐壽命，是下下策的做法唷！請按下next，到下面4<br>種方式看看吧！</div>';
             break;
         case 9:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "d" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "d" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 10:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 11:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 12:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">可惜！你所在的縣市政府不太打算焚化廚餘，且若是進行焚化，會壓縮原先垃圾焚燒空間，且會產生戴奧辛，降低焚化爐壽命，是下下策的做法唷！請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">可惜！你所在的縣市政府不太打算焚化廚餘，且若是進行焚化，會壓縮原先垃圾焚燒<br>空間，且會產生戴奧辛，降低焚化爐壽命，是下下策的做法唷！請按下next，到下面4<br>種方式看看吧！</div>';
             break;
         case 13:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 14:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 15:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">可惜！你所在的縣市政府不太打算焚化廚餘，且若是進行焚化，會壓縮原先垃圾焚燒空間，且會產生戴奧辛，降低焚化爐壽命，是下下策的做法唷！請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">可惜！你所在的縣市政府不太打算焚化廚餘，且若是進行焚化，會壓縮原先垃圾焚燒<br>空間，且會產生戴奧辛，降低焚化爐壽命，是下下策的做法唷！請按下next，到下面4<br>種方式看看吧！</div>';
             break;
         case 16:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">可惜！你所在的縣市政府不太打算焚化廚餘，且若是進行焚化，會壓縮原先垃圾焚燒空間，且會產生戴奧辛，降低焚化爐壽命，是下下策的做法唷！請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">可惜！你所在的縣市政府不太打算焚化廚餘，且若是進行焚化，會壓縮原先垃圾焚燒<br>空間，且會產生戴奧辛，降低焚化爐壽命，是下下策的做法唷！請按下next，到下面4<br>種方式看看吧！</div>';
             break;
         case 17:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         case 18:
             d.innerHTML+='<div style = "text-align:center" id = "tenth" style = "width:100%;height:100%;">焚化</div><div id = "bartenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "c" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
         default:
             d.innerHTML+='<div style = "text-align:center" id = "twenty_four" style = "width:100%;height:100%;">焚化</div><div id = "bartwenty_four"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "d" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "d" style = "width:100%;height:100%;">你將跟著你的「垃圾」朋友一起進入焚化爐被燃燒！可是原本就有好多的垃圾朋友，<br>這樣一來會佔據他們原本的使用空間，影響垃圾焚化效率，且燃燒過程中會產生戴奧<br>辛，降低焚化爐壽命。請按下next，到下面4種方式看看吧！</div>';
             break;
     }
     
@@ -316,83 +316,83 @@ function nextpage_Buried(number){
     switch(number){
         case 0:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 1:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 2:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 3:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 4:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 5:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 6:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 7:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">你將被埋入土壤中進行腐化，可是這樣一來你會散發出臭味，而且也有土壤污染和污水外漏的疑慮，再加上很多縣市並沒有足夠的空間來掩埋，所以算不上是一個好方法唷！不如再次按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">你將被埋入土壤中進行腐化，可是這樣一來你會散發出臭味，而且也有土壤污染和污<br>水外漏的疑慮，再加上很多縣市並沒有足夠的空間來掩埋，所以算不上是一個好方法<br>唷！不如再次按下next，試試剩下的3種方法吧！</div>';
             break;
         case 8:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 9:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 10:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 11:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 12:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">你將被埋入土壤中進行腐化，可是這樣一來你會散發出臭味，而且也有土壤污染和污水外漏的疑慮，再加上很多縣市並沒有足夠的空間來掩埋，所以算不上是一個好方法唷！不如再次按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">你將被埋入土壤中進行腐化，可是這樣一來你會散發出臭味，而且也有土壤污染和污<br>水外漏的疑慮，再加上很多縣市並沒有足夠的空間來掩埋，所以算不上是一個好方法<br>唷！不如再次按下next，試試剩下的3種方法吧！</div>';
             break;
         case 13:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">你將被埋入土壤中進行腐化，可是這樣一來你會散發出臭味，而且也有土壤污染和污水外漏的疑慮，再加上很多縣市並沒有足夠的空間來掩埋，所以算不上是一個好方法唷！不如再次按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">你將被埋入土壤中進行腐化，可是這樣一來你會散發出臭味，而且也有土壤污染和污<br>水外漏的疑慮，再加上很多縣市並沒有足夠的空間來掩埋，所以算不上是一個好方法<br>唷！不如再次按下next，試試剩下的3種方法吧！</div>';
             break;
         case 14:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 15:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">你將被埋入土壤中進行腐化，可是這樣一來你會散發出臭味，而且也有土壤污染和污水外漏的疑慮，再加上很多縣市並沒有足夠的空間來掩埋，所以算不上是一個好方法唷！不如再次按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">你將被埋入土壤中進行腐化，可是這樣一來你會散發出臭味，而且也有土壤污染和污<br>水外漏的疑慮，再加上很多縣市並沒有足夠的空間來掩埋，所以算不上是一個好方法<br>唷！不如再次按下next，試試剩下的3種方法吧！</div>';
             break;
         case 16:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 17:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         case 18:
             d.innerHTML+='<div style = "text-align:center" id = "thirteen" style = "width:100%;height:100%;">掩埋</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "e" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
         default:
             d.innerHTML+='<div style = "text-align:center" id = "twenty_six" style = "width:100%;height:100%;">掩埋</div><div id = "bartwenty_six"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "f" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "f" style = "width:100%;height:100%;">真可惜！你來到了無法進行掩埋的城市！事實上，掩埋會帶來發臭以及土壤、污水污<br>染的問題，不如藉此機會按下next，試試剩下的3種方法吧！</div>';
             break;
     }
 
@@ -421,84 +421,84 @@ function nextpage_compost(number){
     }
     switch(number){
         case 0:
-            d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥0</div><div id = "barthirteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 1:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 2:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 3:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">哎呀！你所在的縣（市）無法進行熟廚餘堆肥，且若要進行堆肥，也會產生臭味、且需要添購其他設備等問題，請按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">哎呀！你所在的縣（市）無法進行熟廚餘堆肥，且若要進行堆肥，也會產生臭味、且<br>需要添購其他設備等問題，請按下next，看看剩下的2個方法吧！</div>';
             break;
         case 4:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 5:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 6:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 7:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 8:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 9:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 10:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 11:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 12:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 13:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 14:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">哎呀！你所在的縣（市）無法進行熟廚餘堆肥，且若要進行堆肥，也會產生臭味、且需要添購其他設備等問題，請按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">哎呀！你所在的縣（市）無法進行熟廚餘堆肥，且若要進行堆肥，也會產生臭味、且<br>需要添購其他設備等問題，請按下next，看看剩下的2個方法吧！</div>';
             break;
         case 15:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 16:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 17:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;;">堆肥</div><div id = "barfifteen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         case 18:
             d.innerHTML+='<div style = "text-align:center" id = "fifteenth" style = "width:100%;height:100%;;">堆肥</div><div id = "barfifteen"><hr></div>'
-            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "g" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
         default:
             d.innerHTML+='<div style = "text-align:center" id = "twenty_eight" style = "width:100%;height:100%;;">堆肥</div><div id = "bartwenty_eight"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "h" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "h" style = "width:100%;height:100%;">來來來！到桶子裡來！你將被裝入堆肥桶中，再倒入「肥土菌」後，在經過擠壓等程<br>序後，最終變成液態的肥料，用來澆灌作物、植物。這樣的程序不論在一般家庭中，<br>或在專業的堆肥場都可以進行哦！然而由於你屬於熟廚餘，如果要進行堆肥，會產生<br>臭味、且需要添購其他設備，有些麻煩。要不試試按下next，看看剩下的2個方法吧！</div>';
             break;
     }
      
@@ -530,82 +530,83 @@ function nextpage_chemistry(number){
     switch(number){
         case 0:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 1:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 2:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 3:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 4:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 5:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 6:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 7:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">你要被帶到工廠裡了！經過化製的過程你將變成化學肥料，拿來照顧植物。然而這樣的過程會產生臭味、也會帶來空氣汙染的問題！不如按下next，試試其他方法吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">你要被帶到工廠裡了！經過化製的過程你將變成化學肥料，拿來照顧植物。然而這樣<br>的過程會產生臭味、也會帶來空氣汙染的問題！不如按下next，試試其他方法吧！</div>';
             break;
         case 8:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 9:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 10:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製10</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 11:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 12:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 13:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 14:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 15:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 16:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 17:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         case 18:
             d.innerHTML+='<div style = "text-align:center" id = "seventeenth" style = "width:100%;height:100%">化製</div><div id = "barseventeen"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "i" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
         default:
             d.innerHTML+='<div style = "text-align:center" id = "thirty" style = "width:100%;height:100%">化製</div><div id = "barthirty"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "j" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染的疑慮，請按下next，到下一個步驟看看吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "j" style = "width:100%;height:100%;">哦噢！這是一個無法進行化製的縣市！且就算進行化製，也會有產生臭味、空氣污染<br>的疑慮，請按下next，到下一個步驟看看吧！</div>';
             break;
     }
     if(number !=-1)
@@ -639,83 +640,83 @@ function nextpage_biomass(number){
     switch(number){
         case 0:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 1:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 2:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 3:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 4:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 5:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 6:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 7:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 8:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 9:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 10:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 11:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 12:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 13:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 14:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 15:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 16:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 17:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         case 18:
             d.innerHTML+='<div style = "text-align:center" id = "ninteenth" style = "width:100%;height:100%">生質能</div><div id = "barninteenth"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "l" style = "width:100%;height:100%;">你在的縣市現在還沒有生質能發電廠哦！真可惜...因為生質能是個既環保又能消化廚<br>餘的好方法呢！要不按下再玩一次，重新抽獎再來一次廚餘之旅吧！</div>';
             break;
         default:
             d.innerHTML+='<div style = "text-align:center" id = "thirty_two" style = "width:100%;height:100%">生質能</div><div id = "barthirty_two"><hr></div>';
-            d.innerHTML+='<div style = "text-align:center" id = "k" style = "width:100%;height:100%;">你將被打碎，經過酸化的程序，然後待在缺乏氧氣的儲存槽裡一陣子，接著你會變成沼氣，然後！你會被點燃，最後變成電能，達到資源永續利用的效果！恭喜你囉！你為環境進了</div>';
+            d.innerHTML+='<div style = "text-align:center" id = "k" style = "width:100%;height:100%;">你將被打碎，經過酸化的程序，然後待在缺乏氧氣的儲存槽裡一陣子，接著你會變成沼氣<br>，然後！你會被點燃，最後變成電能，達到資源永續利用的效果！恭喜你囉！你為<br>環境進了一份力！</div>';
             break;
     }
     
