@@ -10,19 +10,24 @@ var option_imgurl = ['./picture/餵豬.png',
                      './picture/生質能1.jpg',
                      './picture/生質能2.jpg'
                     ];
-//d.innerHTML+=
+
 function game(flag){
+    //15-23 移除部分HTML 
     if(flag==1){
         document.getElementById("again").style.display = "none"
         document.getElementById("fail_result").style.display = "none"
+        document.getElementById("ninteenth").style.display = "none"
     }
     else{
         console.log("TEST");
         d.innerHTML = "";
     }
+    //播放抽籤影片
     d.innerHTML+='<video id = "first" autoplay="" playsinline muted="true" ><source type="video/mp4" src="./picture/抽籤.mp4"></source></video>';
+    //隨機挑選縣市(不包含豆干)
     var imgnumber = Math.floor(Math.random()*17);
     document.getElementById("container").style.textAlign = "left";
+    
     if (flag==0){
         a=1;
         number = imgnumber;
@@ -42,6 +47,7 @@ function game(flag){
         },8000)
     }
 }
+//延遲出現食物圖片
 function hidepic(a,number)
 {   
     var first_imgurl = ['./picture/小籠包.png', 
@@ -76,6 +82,7 @@ function hidepic(a,number)
         setTimeout("hidepic("+a+","+number+")",1000);
     }
 }
+//餵豬頁面
 function nextpage_feedpigs(number){
     //console.log(number);
     switch(number){
@@ -154,6 +161,7 @@ function nextpage_feedpigs(number){
     else    
         d.innerHTML+='<img id ="twenty_three" onclick="nextpage_incineration('+number+')" src="./picture/下一頁1.png" style="height:15vw;width:15vw;;cursor:pointer;z-index:23;">';
 }
+//焚化頁面
 function nextpage_incineration(number){
     
     switch(number){
@@ -233,6 +241,7 @@ function nextpage_incineration(number){
         d.innerHTML+='<img id ="twenty_five" onclick="nextpage_Buried('+number+')" src="./picture/下一頁1.png" style="height:15vw;width:15vw;cursor:pointer;z-index:25;">';
     }
 }
+//掩埋頁面
 function nextpage_Buried(number){
     
     switch(number){
@@ -312,6 +321,7 @@ function nextpage_Buried(number){
         d.innerHTML+='<img id ="twenty_seven" onclick="nextpage_compost('+number+')" src="./picture/下一頁1.png" style="height:15vw;width:15vw;cursor:pointer;z-index:27;"></img>';
     }
 }
+//推肥頁面
 function nextpage_compost(number){
     switch(number){
         case 0:
@@ -390,6 +400,7 @@ function nextpage_compost(number){
         d.innerHTML+='<img id ="twenty_nine" onclick="nextpage_chemistry('+number+')" src="./picture/下一頁1.png" style="height:15vw;width:15vw;;cursor:pointer;">';
     }
 }
+//化製頁面
 function nextpage_chemistry(number){
     switch(number){
         case 0:
@@ -468,6 +479,7 @@ function nextpage_chemistry(number){
         d.innerHTML+='<img id ="thirty_one" onclick="nextpage_biomass('+number+')" src="./picture/下一頁1.png" style="height:15vw;width:15vw;cursor:pointer;">';
     }
 }
+//生質能頁面
 function nextpage_biomass(number){
     
     //third.style.visibility =(third.style.visibility == "hidden") ? "visible" : "hidden";
@@ -538,15 +550,17 @@ function nextpage_biomass(number){
         document.getElementById("seventh").style.display = "none"
         document.getElementById("seventeenth").style.display = "none"
         document.getElementById("eighteenth").style.display = "none"
-        d.innerHTML+='<img id = "fail" style = "width:30%;height:30%;" src="'+option_imgurl[5]+'">';
-        d.innerHTML+='<img id ="drawagain" onclick="draw_again('+number+')" src="./picture/下一頁1.png" style="height:15vw;width:15vw;;cursor:pointer;">';
+        //d.innerHTML+='<img id = "fail" style = "width:30%;height:30%;" src="'+option_imgurl[5]+'">';
+        d.innerHTML+='<img id = "fail_result" style = "width:40%;height:40%;margin-left:30%" src = "./picture/生質能(電電失敗).png">';
+        d.innerHTML+='<img id ="again" onclick="game('+1+')" src="./picture/再玩一次1.png" style="cursor:pointer;height:15vw;width:15vw;margin-left:8%"></img>';
+        //d.innerHTML+='<img id ="drawagain" onclick="draw_again('+number+')" src="./picture/下一頁1.png" style="height:15vw;width:15vw;;cursor:pointer;">';
     }
     else{
         document.getElementById("forty_four").style.display = "none"
         document.getElementById("thirty").style.display = "none"
         document.getElementById("thirty_one").style.display = "none"
-        d.innerHTML+='<img id = "succeed" style = "width:30%;height:30%;" src="'+option_imgurl[6]+'">';
-        d.innerHTML+='<img id ="final" onclick="Final('+number+')" src="./picture/下一頁1.png" style="height:15vw;width:15vw;cursor:pointer;">';        
+        d.innerHTML+='<img id = "succeed" style = "width:30%;height:30%;" src="'+option_imgurl[5]+'">';
+        d.innerHTML+='<img id ="final" onclick="Final('+number+')" src="./picture/下一頁1.png" style="height:15vw;width:15vw;cursor:pointer;">';
     }
         
 }
@@ -562,11 +576,12 @@ function draw_again(a){
     d.innerHTML+='<img id ="again" onclick="game('+1+')" src="./picture/再玩一次1.png" style="cursor:pointer;height:15vw;width:15vw;margin-left:8%"></img>';
     //document.write('<img id ="again" onclick="('+number+')" src="./picture/下一頁.png" style="cursor:pointer;position:absolute;top:700px;left:100px;z-index:33;"></img>');  
 }
+//結束並重新抽籤
 function Final(a){
     document.getElementById("thirty_two").style.display = "none"
     document.getElementById("succeed").style.display = "none"
     document.getElementById("final").style.display = "none"
     d.innerHTML+='<img id = "fifty_one" style = "width:40%;height:40%;margin-left:30%" src = "./picture/生質能(健美電電).jpg">';
-    d.innerHTML+='<img id ="fifty_two" onclick="clean()" src="./picture/再玩一次1.png" style="cursor:pointer;height:15vw;width:15vw;margin-left:8%"></img>';
+    d.innerHTML+='<img id ="fifty_two" onclick="clean()" src="./picture/再玩一次2.png" style="cursor:pointer;height:15vw;width:15vw;margin-left:8%"></img>';
 }
 //game(0);
